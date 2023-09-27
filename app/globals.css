@@ -22,3 +22,14 @@
 .ReactModal__Overlay .ReactModal__Overlay--after-open{
   background-color: rgb(80, 80, 80);
 }
+
+.bell:hover{
+    transition: 0.4s ease-in-out;
+    transform: rotate(360deg);
+    background-color: black;
+    color: white;
+} 
+
+.btnActv span:hover{
+  transition: 0.8s ease-in-out;
+}
